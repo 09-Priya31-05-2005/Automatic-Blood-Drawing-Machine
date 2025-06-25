@@ -1,4 +1,4 @@
-# Automatic-Blood-Drawing-Machine
+# Vein Detector
 Name: N.Priyadarshini
 
 college: Indian Institute of Information Technology Design and Manufacturing Kancheepuram
